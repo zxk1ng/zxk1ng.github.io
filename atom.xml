@@ -6,7 +6,7 @@
   <link href="https://zxk1ng.github.io/atom.xml" rel="self"/>
   
   <link href="https://zxk1ng.github.io/"/>
-  <updated>2025-01-15T12:16:19.159Z</updated>
+  <updated>2025-01-15T12:32:21.286Z</updated>
   <id>https://zxk1ng.github.io/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://zxk1ng.github.io/posts/d87f7e0c.html"/>
     <id>https://zxk1ng.github.io/posts/d87f7e0c.html</id>
     <published>2025-01-15T12:08:29.000Z</published>
-    <updated>2025-01-15T12:16:19.159Z</updated>
+    <updated>2025-01-15T12:32:21.286Z</updated>
     
-    <content type="html"><![CDATA[<img src="/posts/d87f7e0c.htm/d87f7e0c/image-20250115201016146.png" class>]]></content>
+    <content type="html"><![CDATA[<p>&lt;%- image_tag(2025-01-15-test/image-20250115201016146.png) %&gt;</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;img src=&quot;/posts/d87f7e0c.htm/d87f7e0c/image-20250115201016146.png&quot; class&gt;
+    <summary type="html">&lt;p&gt;&amp;lt;%- image_tag(2025-01-15-test/image-20250115201016146.png) %&amp;gt;&lt;/p&gt;
 </summary>
       
     
