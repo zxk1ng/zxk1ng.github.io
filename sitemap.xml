@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://zxk1ng.github.io/box/gallery/index.html</loc>
+    <loc>https://zxk1ng.github.io/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -182,16 +182,7 @@
   </url>
   
   <url>
-    <loc>https://zxk1ng.github.io/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zxk1ng.github.io/life/music/index.html</loc>
+    <loc>https://zxk1ng.github.io/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -218,7 +209,16 @@
   </url>
   
   <url>
-    <loc>https://zxk1ng.github.io/site/time/index.html</loc>
+    <loc>https://zxk1ng.github.io/life/music/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zxk1ng.github.io/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -236,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://zxk1ng.github.io/site/census/index.html</loc>
+    <loc>https://zxk1ng.github.io/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -298,13 +298,6 @@
   </url>
   
   <url>
-    <loc>https://zxk1ng.github.io/tags/%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/</loc>
-    <lastmod>2025-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://zxk1ng.github.io/tags/%E6%8A%93%E5%8C%85/</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -312,7 +305,21 @@
   </url>
   
   <url>
+    <loc>https://zxk1ng.github.io/tags/%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://zxk1ng.github.io/tags/NDK%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zxk1ng.github.io/tags/hook/</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -334,13 +341,6 @@
   
   <url>
     <loc>https://zxk1ng.github.io/tags/%E6%BC%8F%E6%B4%9E/</loc>
-    <lastmod>2025-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zxk1ng.github.io/tags/hook/</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -405,14 +405,14 @@
   </url>
   
   <url>
-    <loc>https://zxk1ng.github.io/categories/Android%E9%80%86%E5%90%91/</loc>
+    <loc>https://zxk1ng.github.io/categories/Android%E6%8A%93%E5%8C%85/</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zxk1ng.github.io/categories/Android%E6%8A%93%E5%8C%85/</loc>
+    <loc>https://zxk1ng.github.io/categories/Android%E9%80%86%E5%90%91/</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
